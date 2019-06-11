@@ -1,6 +1,6 @@
 ![](https://www.finat.pl/static/front/infosite/img/logo/pko-finat.svg)
 # PPK w PKO Finat
-PKO Finat oferuje Instytucjom Finansowym narzędzia do obsługi programu PPK w tym między innymi internetową aplikację dedykowaną dla pracodawców. Istnieje kilka możliwości przekazywania danych do Instytucji Finansowych przez pracodawcę:
+PKO Finat oferuje Instytucjom Finansowym narzędzia do obsługi programu PPK w tym między innymi internetową aplikację dedykowaną dla pracodawców. Istnieje kilka możliwości przekazywania danych do Instytucji Finansowych przez Pracodawcę:
 
 •	uzupełnienie formularza za pośrednictwem aplikacji dostępnej przez przeglądarki internetowe (iPPK),
 
@@ -8,7 +8,7 @@ PKO Finat oferuje Instytucjom Finansowym narzędzia do obsługi programu PPK w t
 
 •	wymiana danych poprzez API Rest.
 
-Możliwość korzystania z API jest konfigurowana na poziomie Instytucji Finansowej, która zarządza PPK w Podmiocie Zatrudniającym.
+Możliwość korzystania z API jest konfigurowana na poziomie Instytucji Finansowej, która zarządza PPK u Pracodawcy.
 Założyliśmy profil PKO Finat API na GitHubie po to, aby mogli Państwo łatwiej zgłaszać problemy, zadawać pytania i szukać odpowiedzi w już rozwiązanych wątkach.
 
 # iPPK REST API w PKO Finat
