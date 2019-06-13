@@ -1,20 +1,23 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: 👍Rozwój aplikacji
+about: Zaproponuj pomysł na usprawnienia w aplikacji
 title: ''
 labels: ''
 assignees: ''
 
 ---
+**Dotyczy**
+- [ ] API
+- [ ] Aplikacji iPPK
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Opis funkcjonalność**
+Szczegółowy opis funkcjonalności, z dodatkową informacją, o ewentualnym usprawnieniu jakiego błędu/funkcjonalności ono dotyczy
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+
+**Dodatkowe informacje**
+Wszystkie dodatkowe informacje które dotyczą nowego usprawnienia (np. screenshots)
+
+
+
