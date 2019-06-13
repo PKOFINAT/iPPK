@@ -1,38 +1,37 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: 🔔 Błąd w aplikacji iPPK
+about: Utwórz zgłosznie dotyczące błędu w aplikacji iPPK
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Opisz błąd**
+Szczegółowy opis błędu i na czym on polega
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+
+**Odtworzenie błędu**
+Odtwórz kolejne kroki do pojawienia się/ wygenerowania błędu.
+
+
+
+**Oczekiwane zachowanie**
+Szczegółowy opis jakie było oczekiwane zachowanie sie systemu
+
+
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Wklej zrzut ekranu z błędem
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+**Opis urządzenia**
+- Nazwa urządzenia (np. iPhone8)
+- System operacyjny (np. Windows 10)
+- Przeglądarka (np. Internet Explorer)
+- Wersja przeglądarki (np. 11 )
+
+**Dodatkowe informacje**
+Wszystkie dodatkowe informacje które pomogą nam rozwiązać problem
