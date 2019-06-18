@@ -1,6 +1,6 @@
 ---
-name: 📄 Błąd przy wczytywaniu pliku
-about: Utwórz zgłosznie dotyczące błędu przy wczytywaniu pliku w aplikacji iPPK
+name: 📄 Problem przy wczytywaniu pliku
+about: Utwórz zgłosznie dotyczące problemu przy wczytywaniu pliku w aplikacji iPPK
 title: ''
 labels: ''
 assignees: ''
