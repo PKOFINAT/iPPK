@@ -1,6 +1,6 @@
 ---
-name: 🔧 Błąd API
-about: Utwórz zgłosznie dotyczące błędu związanego z integracją z API
+name: 🔧 Problem z API
+about: Utwórz zgłosznie dotyczące problemu związanego z integracją z API
 title: ''
 labels: ''
 assignees: ''
