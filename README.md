@@ -9,7 +9,7 @@ PKO Finat oferuje Instytucjom Finansowym narzędzia do obsługi programu PPK w t
 •	wymiana danych poprzez API Rest.
 
 Możliwość korzystania z API jest konfigurowana na poziomie Instytucji Finansowej, która zarządza PPK u Pracodawcy.
-Założyliśmy profil PKO Finat API na GitHubie po to, aby mogli Państwo łatwiej zgłaszać problemy, zadawać pytania i szukać odpowiedzi w już rozwiązanych wątkach.
+Założyliśmy profil iPPK na GitHubie po to, aby mogli Państwo łatwiej zgłaszać problemy, zadawać pytania i szukać odpowiedzi w już rozwiązanych wątkach.
 
 # iPPK REST API w PKO Finat
 API to usługa sieciowa, która umożliwia wymianę informacji między aplikacją iPPK a oprogramowaniem zewnętrznym. Dzięki niej programiści mogą zintegrować własne rozwiązania z mechanizmami serwisu. W ramach API REST udostępnimy szereg metod, które odpowiadają poszczególnym funkcjom serwisu. Opisaliśmy je w dokumentacji, którą można znaleźć pod [tym adresem](https://www.finat.pl/media_files/2fe2de66-590b-4570-8ed4-889496cde789.pdf). Prosimy o zapoznanie się z nią przed rozpoczęciem integracji z API.
