@@ -32,6 +32,13 @@ Wybierz metodę, której używasz
 - [ ] Pobierz listę i szczegóły paczek składek
 - [ ] Pobierz listę składek uczestnika
 
+4.Korekty:
+
+- [ ] Załaduj paczkę korekt
+- [ ] Pobierz status paczki korekt oraz listę błędów
+- [ ] Pobierz listę i szczegóły paczek korekt
+- [ ] Pobierz listę korekt uczestnika
+
 **Odpowiedź**
 Podaj odpowiedź, jaką otrzymujesz po użyciu metody, ewentualnie kod błędu (np. 103)
 
