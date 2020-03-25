@@ -12,7 +12,10 @@ Możliwość korzystania z API jest konfigurowana na poziomie Instytucji Finanso
 Założyliśmy profil iPPK na GitHubie po to, aby mogli Państwo łatwiej zgłaszać problemy, zadawać pytania i szukać odpowiedzi w już rozwiązanych wątkach.
 
 # iPPK REST API w PKO Finat
-API to usługa sieciowa, która umożliwia wymianę informacji między aplikacją iPPK a oprogramowaniem zewnętrznym. Dzięki niej programiści mogą zintegrować własne rozwiązania z mechanizmami serwisu. W ramach API REST udostępnimy szereg metod, które odpowiadają poszczególnym funkcjom serwisu. Opisaliśmy je w dokumentacji, którą można znaleźć pod [tym adresem](https://www.finat.pl/media_files/2fe2de66-590b-4570-8ed4-889496cde789.pdf). Prosimy o zapoznanie się z nią przed rozpoczęciem integracji z API.
+API to usługa sieciowa, która umożliwia wymianę informacji między aplikacją iPPK a oprogramowaniem zewnętrznym. Dzięki niej programiści mogą zintegrować własne rozwiązania z mechanizmami serwisu. W ramach API REST udostępnimy szereg metod, które odpowiadają poszczególnym funkcjom serwisu. Opisaliśmy je w dokumentacji, którą można znaleźć pod [tym adresem](https://www.finat.pl/media_files/d9e622e5-b391-40fc-9fd0-ee689705f8b2.pdf). Prosimy o zapoznanie się z nią przed rozpoczęciem integracji z API.
+
+Rekomendujemy aby do testowej integracji skorzystać z natywnego narzędzia POSTMAN. Dane potrzebne do właściwego zbudowania nagłówka AUTH znajdują się w aplikacji. O dostęp, do demonstracyjnej wersji aplikacji, prosimy wnioskować poprzez adres api@finat.pl. 
+
 Metody udostępniane przez API:
 1.	Kartoteki:
 
@@ -45,6 +48,17 @@ b)	Pobierz status paczki składek oraz listę błędów
 c)	Pobierz listę i szczegóły paczek składek
 
 d)	Pobierz listę składek uczestnika
+
+4. Korekty:
+
+a) Załaduj paczkę korekt
+
+b) Pobierz status paczki korekt oraz listę błędów
+
+c) Pobierz listę i szczegóły paczek korekt
+
+d) Pobierz listę korekt uczestnika
+
 
 # Jak zadawać pytania i zgłaszać problemy w GitHubie?
 
