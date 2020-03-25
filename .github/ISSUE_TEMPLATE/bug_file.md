@@ -12,11 +12,11 @@ Wybierz którego pliku dotyczy błąd
 - [ ] Plik rejestracyjny
 - [ ] Plik dyspozycje
 - [ ] Plik składkowy
-- [ ] Plik koniec zatrudnienia (funkcjonalnośc niedostępna)
-- [ ] Plik korekt (funkcjonalnośc niedostępna)
+- [ ] Plik koniec zatrudnienia 
+- [ ] Plik korekt 
 
 **Szczegóły pliku**
-Podaj rozmiar i format pliku ( np. 8MB, format CSV)
+Podaj rozmiar i format pliku ( np. 8MB, format XML)
 
 
 
