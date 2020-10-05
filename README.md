@@ -29,6 +29,16 @@ d)	Zarejestruj początek zatrudnienia
 
 e)	Zarejestruj koniec zatrudnienia
 
+f)  Pobierz umowę o prowadzenie dla wskazanego pracownika
+
+g)  Pobierz umowę o prowadzenie PPK bez załącznika
+
+h)  Wygeneruj załącznik do umowy o prowadzenie PPK
+
+i)  Pobierz status generowania załącznika do umowy o prowadzenie PPK
+
+j)  Pobierz załącznik do umowy o prowadzenie PPK
+
 2.	Dyspozycje:
 
 a)	Zarejestruj dyspozycje
