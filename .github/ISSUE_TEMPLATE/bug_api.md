@@ -17,6 +17,11 @@ Wybierz metodę, której używasz
 - [ ] Znajdź uczestnika
 - [ ] Zarejestruj początek zatrudnienia
 - [ ] Zarejestruj koniec zatrudnienia
+- [ ] Pobierz umowę o prowadzenie dla wskazanego pracownika
+- [ ] Pobierz umowę o prowadzenie PPK bez załącznika
+- [ ] Wygeneruj załącznik do umowy o prowadzenie PPK
+- [ ] Pobierz status generowania załącznika do umowy o prowadzenie PPK
+- [ ] Pobierz załącznik do umowy o prowadzenie PPK
 
 2.Dyspozycje:
 
